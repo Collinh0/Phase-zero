@@ -1,0 +1,8 @@
+#button {background-color: blue;}
+/* image uploading */
+#image {
+    width: 250px;
+    height: 300px;
+    padding: 12px;
+    border-radius: 5px;
+}
